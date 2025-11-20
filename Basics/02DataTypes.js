@@ -9,4 +9,5 @@ let bigNumber = 1234567890123456789012345678901234567890n; // BigInt literal
 let symbol = Symbol("id"); // Symbol literal
 let person = null; // Null literal
 
+console.log(typeof name);
 console.log("Name:", name);                 // Output: Name: John  
